@@ -1,6 +1,6 @@
 # Tutorial para Windows
 
-## Instalação MariaDB
+## Instalação MariaDB ( Não recomendado se utilizar o XAMPP)
 
 https://mariadb.com/downloads/
 
@@ -27,6 +27,8 @@ https://getcomposer.org/download/
 Link direto
 
 https://getcomposer.org/Composer-Setup.exe
+
+Adicionar o composer nas variáveis de ambiente
 
 
 # Laravel
