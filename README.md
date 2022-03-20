@@ -4,9 +4,8 @@
 
 https://mariadb.com/downloads/
 
-Link direto
-
-https://mariadb.com/download-confirmation?group-name=Community%20Server&release-notes-uri=https%3A%2F%2Fmariadb.com%2Fkb%2Fen%2Fmariadb-1073-release-notes%2F&documentation-uri=https%3A%2F%2Fmariadb.com%2Fkb%2Fen%2Fwhat-is-mariadb-107%2F&download-uri=https%3A%2F%2Fdlm.mariadb.com%2F2150811%2FMariaDB%2Fmariadb-10.7.3%2Fwinx64-packages%2Fmariadb-10.7.3-winx64.msi&product-name=Community%20Server&download-size=63.85%20MB
+Link direto (clique aqui)[
+https://mariadb.com/download-confirmation?group-name=Community%20Server&release-notes-uri=https%3A%2F%2Fmariadb.com%2Fkb%2Fen%2Fmariadb-1073-release-notes%2F&documentation-uri=https%3A%2F%2Fmariadb.com%2Fkb%2Fen%2Fwhat-is-mariadb-107%2F&download-uri=https%3A%2F%2Fdlm.mariadb.com%2F2150811%2FMariaDB%2Fmariadb-10.7.3%2Fwinx64-packages%2Fmariadb-10.7.3-winx64.msi&product-name=Community%20Server&download-size=63.85%20MB]
 
 ## Instalação do Dbever
 
